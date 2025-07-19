@@ -50,4 +50,4 @@ backend/
 ```
 ## 👨‍💻 Author
 
-Built by **Yash Shukla** to provide a scalable, secure, and modular code execution backend using **microservices**.
+Built by **Yash Kesarwani** to provide a scalable, secure, and modular code execution backend using **microservices**.

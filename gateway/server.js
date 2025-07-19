@@ -15,10 +15,10 @@ app.use(cors({
 app.use(bodyParser.json());
 
 const serviceMap = {
-  python: "https://python-service-k920.onrender.com/run",
-  cpp: "https://cppservice.onrender.com/run",
-  java: "https://java-service-rtcm.onrender.com/run",
-  js: "https://js-service.onrender.com/run",
+  python: "https://pyhtonservice.onrender.com/run",
+  cpp: "https://cppservice-dss6.onrender.com/run",
+  java: "https://javaservice.onrender.com/run",
+  js: "https://jsservice-cai2.onrender.com/run",
 };
 
 app.post("/run", async (req, res) => {
